@@ -1,6 +1,7 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Скрипт для вычисления корней квадратного уравнения.
+Для запуска тестов выполните  $python tests.py
 
 # Project Goals
 
